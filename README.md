@@ -2,7 +2,7 @@
 SDR Widget and Audio Widget binaries
 ====================================
 
-File: <a href="https://github.com/borgestrand/widget_binaries/raw/master/audio_widget_20130902.elf">audio_widget_20130902.elf</a>
+<b>File:</b> <a href="https://github.com/borgestrand/widget_binaries/raw/master/audio_widget_20130902.elf">audio_widget_20130902.elf</a>
 <br>
 <b>Date:</b> 20131010 
 <b>Author</b>: Borge Strand-Bergesen
