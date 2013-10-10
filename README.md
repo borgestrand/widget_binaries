@@ -17,5 +17,6 @@ Firmware for AB-1.2 and AB-1.1 with improved UAC1 enumeration for OS X and gener
 
 
 Formatting information for this file:
+<br>
 https://help.github.com/articles/github-flavored-markdown
 http://daringfireball.net/projects/markdown/syntax
