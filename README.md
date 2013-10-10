@@ -6,7 +6,7 @@ File: <a href="https://github.com/borgestrand/widget_binaries/raw/master/audio_w
 <br>
 <b>Date:</b> 20131010 
 <b>Author</b>: Borge Strand-Bergesen
-<b>Description:</b>
+<br>
 Firmware for AB-1.2 and AB-1.1 with improved UAC1 enumeration for OS X and general code cleanup. This file contains debug features. 
 
 
