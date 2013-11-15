@@ -2,6 +2,14 @@
 SDR Widget and Audio Widget binaries
 ====================================
 
+
+<b>File:</b> <a href="https://github.com/borgestrand/widget_binaries/raw/master/awx_20131115c2.elf">awx_20131115c2.elf</a>
+<b>Date:</b> 20131115 
+<b>Author</b>: Borge Strand-Bergesen
+<br>
+Firmware for AB-1.2 and AB-1.1 with gracefull degradation through sample skip/insert. Gracefull degradation ONLY kicks in where there would otherwise be metallic noise. Normal playback should be unaffected.
+
+
 <b>File:</b> <a href="https://github.com/borgestrand/widget_binaries/raw/master/audio_widget_20130902.elf">audio_widget_20130902.elf</a>
 <b>Date:</b> 20131010 
 <b>Author</b>: Borge Strand-Bergesen
