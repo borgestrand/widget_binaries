@@ -2,6 +2,15 @@
 SDR Widget and Audio Widget binaries
 ====================================
 
+How to reinstall: Read from line 508 of the <a href="https://github.com/amontefusco/sdr-widget/blob/audio-widget-experimental/AW_readme.txt">Audio Widget Readme file</a>.
+
+
+<b>File:</b> <a href="https://github.com/borgestrand/widget_binaries/raw/master/audio-widget-20131208clean_RC.elf">audio-widget-20131208clean_RC.elf</a>
+<b>Date:</b> 20131210
+<b>Author</b>: Borge Strand-Bergesen
+<br>
+Release candidate firmware for AB-1.1 and AB-1.2. No debug features
+
 
 <b>File:</b> <a href="https://github.com/borgestrand/widget_binaries/raw/master/awx_20131115c2.elf">awx_20131115c2.elf</a>
 <b>Date:</b> 20131115 
