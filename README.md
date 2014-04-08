@@ -2,7 +2,17 @@
 SDR Widget and Audio Widget binaries
 ====================================
 
-How to reinstall: Read from line 508 of the <a href="https://github.com/amontefusco/sdr-widget/blob/audio-widget-experimental/AW_readme.txt">Audio Widget Readme file</a>.
+How to reinstall DAC firmware: Read from line 508 of the <a href="https://github.com/amontefusco/sdr-widget/blob/audio-widget-experimental/AW_readme.txt">Audio Widget Readme file</a>.
+
+<b>File:</b> <a href="https://github.com/borgestrand/widget_binaries/raw/master/WidgetTest_20140408_1157.zip">WidgetTest_20140408_1157</a>
+<b>Date:</b> 20140408
+<b>Author</b>: Borge
+<br>
+Play wav files with Windows UAC2 driver, bypassing ASIO
+<br>
+Built with libusbK 3.0.5.16
+<br>
+NB: This is an alpha release
 
 
 <b>File:</b> <a href="https://github.com/borgestrand/widget_binaries/raw/master/AWSetup_20130211.zip">AWSetup_20130211.zip</a>
