@@ -8,6 +8,24 @@ How to reinstall DAC firmware: Read from line 508 of the <a href="https://github
 
 
 
+<b>File:</b> <a href="https://github.com/borgestrand/widget_binaries/raw/master/awx_20140917_silent.elf">awx_20140917_silent.elf</a>
+<b>Date:</b> 20140917
+<b>Author</b>: Borge
+<br>
+An attept to prevent (very rare) metallic noise at some player start events. This build has no debug information
+<br>
+NB: This is an beta release
+
+
+<b>File:</b> <a href="https://github.com/borgestrand/widget_binaries/raw/master/awx_20140917_debug.elf">awx_20140917_debug.elf</a>
+<b>Date:</b> 20140917
+<b>Author</b>: Borge
+<br>
+An attept to prevent (very rare) metallic noise at some player start events. This build has debug information on RS232 and pin toggles.
+<br>
+NB: This is an beta release
+
+
 <b>File:</b> <a href="https://github.com/borgestrand/widget_binaries/raw/master/ASIO_bin_patch_20140429.zip">ASIO_bin_patch_20140429.zip</a>
 <b>Date:</b> 20140429
 <b>Author</b>: Borge / Ti / Nikolay
