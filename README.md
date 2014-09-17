@@ -2,8 +2,46 @@
 SDR Widget and Audio Widget binaries
 ====================================
 
-How to reinstall: Read from line 508 of the <a href="https://github.com/amontefusco/sdr-widget/blob/audio-widget-experimental/AW_readme.txt">Audio Widget Readme file</a>.
+How to reinstall DAC firmware: Read from line 508 of the <a href="https://github.com/amontefusco/sdr-widget/blob/audio-widget-experimental/AW_readme.txt">Audio Widget Readme file</a>.
 
+
+
+
+
+<b>File:</b> <a href="https://github.com/borgestrand/widget_binaries/raw/master/ASIO_bin_patch_20140429.zip">ASIO_bin_patch_20140429.zip</a>
+<b>Date:</b> 20140429
+<b>Author</b>: Borge / Ti / Nikolay
+<br>
+Initial release of 64-bit ASIO driver, minor bug-fix in 32-bit ASIO driver, 32 and 64-bit WidgetTest RAM based .wav file player. Manual install - you 
+must consider readme.txt
+<br>
+Built with libusbK 3.0.5.16
+<br>
+NB: This is an alpha release
+
+
+<b>File:</b> <a href="https://github.com/borgestrand/widget_binaries/raw/master/WidgetTest_20140410A.tgz">WidgetTest_20140408A.tgz</a>
+<b>Date:</b> 20140410
+<b>Author</b>: Borge
+<br>
+Play wav files with Windows UAC2 driver, bypassing ASIO. Now with less CPU consumption, more playback options, callback monitoring
+<br>
+Built with libusbK 3.0.5.16
+<br>
+NB: This is an alpha release
+
+
+<b>File:</b> <a href="https://github.com/borgestrand/widget_binaries/raw/master/AWSetup_20130211.zip">AWSetup_20130211.zip</a>
+<b>Date:</b> 20130211
+<b>Author</b>: Nikolay, build by Borge
+<br>
+Windows UAC2 ASIO driver and WidgetControl program. It has these major updates:
+<br>
+1) Built with libusbK 3.0.5.16
+<br>
+2) Improved Windows 8 support
+<br>
+3) Increased stability for 44.1/88.2/176.4 playback
 
 <b>File:</b> <a href="https://github.com/borgestrand/widget_binaries/raw/master/audio-widget-20131208clean_RC.elf">audio-widget-20131208clean_RC.elf</a>
 <b>Date:</b> 20131210
