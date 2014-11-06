@@ -8,6 +8,14 @@ How to reinstall DAC firmware: Read from line 508 of the <a href="https://github
 
 
 
+<b>File:</b> <a href="https://github.com/borgestrand/widget_binaries/raw/master/awx_20140918_mkII_RC03.elf">awx_20140918_mkII_RC03.elf</a>
+<b>Date:</b> 20140918
+<b>Author</b>: Borge
+<br>
+Henry Audio USB DAC 128 mkII shipping firmware without debug.
+<br>
+
+
 <b>File:</b> <a href="https://github.com/borgestrand/widget_binaries/raw/master/awx_20140917_silent.elf">awx_20140917_silent.elf</a>
 <b>Date:</b> 20140917
 <b>Author</b>: Borge
