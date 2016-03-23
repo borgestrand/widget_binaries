@@ -8,6 +8,22 @@ How to reinstall DAC firmware: Read from line 508 of the <a href="https://github
 
 
 
+<b>File:</b> <a href="https://github.com/borgestrand/widget_binaries/raw/master/awx_20160323_volume_control.elf">awx_20160323_volume_control.elf</a>
+<b>Date:</b> 20160323
+<b>Author</b>: Borge
+<br>
+Volume control enabled
+<br>
+
+
+<b>File:</b> <a href="https://github.com/borgestrand/widget_binaries/raw/master/awx_20160323_volume_control_0dB.elf">awx_20160323_volume_control_0dB.elf</a>
+<b>Date:</b> 20160323
+<b>Author</b>: Borge
+<br>
+Volume control enabled but not applied in audio
+<br>
+
+
 <b>File:</b> <a href="https://github.com/borgestrand/widget_binaries/raw/master/awx_20151202_ext_pwr_01.elf">awx_20151202_ext_pwr_01.elf</a>
 <b>Date:</b> 20151202
 <b>Author</b>: Borge
