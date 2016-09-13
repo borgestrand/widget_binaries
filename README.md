@@ -8,6 +8,14 @@ How to reinstall DAC firmware: Read from line 508 of the <a href="https://github
 
 
 
+<b>File:</b> <a href="https://github.com/borgestrand/widget_binaries/raw/master/Add_to_flip345_bin.zip">Add_to_flip345_bin.zip</a>
+<b>Date:</b> 20160913
+<b>Author</b>: Borge
+<br>
+Add-on files needed for Atmel Flip in order to install new firmware
+<br>
+
+
 <b>File:</b> <a href="https://github.com/borgestrand/widget_binaries/raw/master/awx_20160323_volume_control.elf">awx_20160323_volume_control.elf</a>
 <b>Date:</b> 20160323
 <b>Author</b>: Borge
