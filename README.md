@@ -2,7 +2,7 @@
 SDR Widget and Audio Widget binaries
 ====================================
 
-How to reinstall DAC firmware: Read from line 508 of the <a href="https://github.com/amontefusco/sdr-widget/blob/audio-widget-experimental/AW_readme.txt">Audio Widget Readme file</a>.
+How to reinstall DAC firmware: Read from line 508 of the <a href="https://github.com/borgestrand/sdr-widget/blob/audio-widget-experimental/AW_readme.txt#L508">Audio Widget Readme file</a>.
 
 
 <b>File:</b> <a href="https://github.com/borgestrand/widget_binaries/raw/master/awx_20170716_debug_volume.elf">awx_20170716_debug_volume.elf</a>
