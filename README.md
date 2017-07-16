@@ -5,7 +5,26 @@ SDR Widget and Audio Widget binaries
 How to reinstall DAC firmware: Read from line 508 of the <a href="https://github.com/amontefusco/sdr-widget/blob/audio-widget-experimental/AW_readme.txt">Audio Widget Readme file</a>.
 
 
+<b>File:</b> <a href="https://github.com/borgestrand/widget_binaries/raw/master/awx_20170716_debug_volume.elf">awx_20170716_debug_volume.elf</a>
+<b>Date:</b> 20170716
+<b>Author</b>: Borge
+<br>
+UAC2 support in Windows 10 Creators Update - With debug and volume control
+<br>
 
+<b>File:</b> <a href="https://github.com/borgestrand/widget_binaries/raw/master/awx_20170716_no_debug_volume.elf">awx_20170716_no_debug_volume.elf</a>
+<b>Date:</b> 20170716
+<b>Author</b>: Borge
+<br>
+UAC2 support in Windows 10 Creators Update - Without debug, with volume control
+<br>
+
+<b>File:</b> <a href="https://github.com/borgestrand/widget_binaries/raw/master/awx_20170716_no_debug_no_volume.elf">awx_20170716_no_debug_no_volume.elf</a>
+<b>Date:</b> 20170716
+<b>Author</b>: Borge
+<br>
+UAC2 support in Windows 10 Creators Update - Without debug, without volume control
+<br>
 
 
 <b>File:</b> <a href="https://github.com/borgestrand/widget_binaries/raw/master/Add_to_flip345_bin.zip">Add_to_flip345_bin.zip</a>
