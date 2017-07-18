@@ -4,6 +4,9 @@ SDR Widget and Audio Widget binaries
 
 How to reinstall DAC firmware: Read from line 508 of the <a href="https://github.com/borgestrand/sdr-widget/blob/audio-widget-experimental/AW_readme.txt#L508">Audio Widget Readme file</a>.
 
+The firmware works on Windows 10 Creators Update build 16232. It fails on at least one earlier version of Creators Update. Make sure you have at least build 16232 before you install the new firmware. 
+Windows 10 Creators Update users should uninstall the ASIO driver associated with Henry Audio / Audio Widget DACs.
+
 
 <b>File:</b> <a href="https://github.com/borgestrand/widget_binaries/raw/master/awx_20170718_debug_volume.elf">awx_20170718_debug_volume.elf</a>
 <b>Date:</b> 20170718
