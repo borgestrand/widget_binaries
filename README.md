@@ -7,6 +7,8 @@ How to reinstall DAC firmware: Read from line 508 of the <a href="https://github
 The firmware works on Windows 10 Creators Update build 16232. On earlier versions of Creators Update it doesn't support all sample rates. Make sure you have at least build 16232 before you install the new firmware. 
 Windows 10 Creators Update users should uninstall the ASIO driver associated with Henry Audio / Audio Widget DACs.
 
+All firmware presented here works with the ASIO drivers, on versions of Windows before Creators Update.
+
 
 <b>File:</b> <a href="https://github.com/borgestrand/widget_binaries/raw/master/awx_20170718_debug_volume.elf">awx_20170718_debug_volume.elf</a>
 <b>Date:</b> 20170718
