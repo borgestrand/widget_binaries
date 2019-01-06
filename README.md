@@ -8,6 +8,15 @@ The firmware works on Windows 10 Creators Update build 16232. On earlier version
 Windows 10 Creators Update users should uninstall the ASIO driver associated with Henry Audio / Audio Widget DACs.
 
 
+<b>File:</b> <a href="https://github.com/borgestrand/widget_binaries/raw/master/awx_20190105_Mk3_RC11.elf">awx_20190105_Mk3_RC11.elf</a>
+<b>Date:</b> 20190105
+<b>Author</b>: Borge
+<br>
+Support for 16-bit and 24-bit audio drivers, with volume control and state machine debug for oscilloscope. Non-critical features are compiled out
+(HID, verbose debug, configuration interface.) NB: Sample rate 192ksps will not work in the ASIO driver.
+<br>
+
+
 <b>File:</b> <a href="https://github.com/borgestrand/widget_binaries/raw/master/awx_20170830_mkII_RC06.elf">awx_20170830_mkII_RC06.elf</a>
 <b>Date:</b> 20170830
 <b>Author</b>: Borge
