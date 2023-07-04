@@ -47,11 +47,13 @@ UAC2 support in Windows 10 Creators Update - Without debug, without volume contr
 <br>
 
 
-<b>File:</b> <a href="https://github.com/borgestrand/widget_binaries/raw/master/Add_to_flip345_bin.zip">Add_to_flip345_bin.zip</a>
-<b>Date:</b> 20160913
+<b>File:</b> <a href="https://github.com/borgestrand/widget_binaries/blob/master/Add_to_flip347_bin_rev2.zip">Add_to_flip347_bin_rev2.zip</a>
+<b>Date:</b> 20230704
 <b>Author</b>: Borge
 <br>
-Add-on files needed for Atmel Flip in order to install new firmware
+Add-on files needed for Atmel Flip in order to install new firmware. 
+Revision 2 supports 128kB devices. Using previous files (Add_to_flip347_bin.zip and Add_to_flip345_bin.zip) is guaranteed to 
+brick 128kB processor chips. 
 <br>
 
 
